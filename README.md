@@ -57,7 +57,7 @@ allprojects {
 ```sh
 dependencies {
 	        implementation 'com.github.gurkankesgin:Tupless:0.1.0'
-	}
+	     }
 ```
 
 ## Contact
