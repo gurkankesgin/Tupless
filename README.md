@@ -15,6 +15,27 @@
 
 Tuples used to store or return three or more values of same or different data types.
 
+```sh
+
+Two value = Pair<T,T>
+Three value = Triple<T,T,T>
+Four value = Quadruple<T,T,T,T>
+Five value = Quintuple<T,T,T,T,T>
+Six value = Sextuple<T,T,T,T,T,T>
+Seven value = Septuple<T,T,T,T,T,T,T>
+Eight value = Octuple<T,T,T,T,T,T,T,T>
+Nine value = Nonuple<T,T,T,T,T,T,T,T,T>
+Ten value = Decuple<T,T,T,T,T,T,T,T,T,T>
+Eleven value = Undecuple<T,T,T,T,T,T,T,T,T,T,T>
+Twelve value = Duodcuple<T,T,T,T,T,T,T,T,T,T,T,T>
+
+ ```
+
+For more information please see the website.
+
+
+
+
 ## Getting Started
 
 there is two simple steps.
